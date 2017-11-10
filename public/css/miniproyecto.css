@@ -1,0 +1,35 @@
+
+h1 {
+    color:#CC0707;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 10rem;
+}
+div {
+ font-size:6rem;
+text-align:justify;
+}
+
+
+
+
+p {
+  border:10px solid green;
+  font-size:9px;
+  font-family:times
+
+color:darkred ;
+text-align:justify;
+border:7px white; 
+z-index:-1;
+}
+
+input{
+  background-color:blue;
+color:red;
+  font-size:20px;
+  font-family:times;
+  }

@@ -1,0 +1,9 @@
+.img{
+top:30%;
+    left: 30%;
+    width: 30%;
+    height: 30%;
+    bottom:30%;
+    padding-bottom: 56.25%;
+    margin:20px;
+}

@@ -1,0 +1,27 @@
+#myform {
+ text-align: center;
+ margin-top:250px
+}
+
+.letra{
+color:#FE2E2E;
+margin-bottom:1rem;
+font-family:verdana;
+bottom:1rem;
+font-size:2rem;
+font-style:italic;
+ font-weight:bold;
+ font-family:'Helvetica','Verdana','Monaco',sans-serif;
+}
+
+.letra2{
+color:#FE2E2E;
+margin-bottom:1rem;
+font-family:verdana;
+bottom:1rem;
+font-size:3rem;
+font-style:italic;
+ font-weight:bold;
+ font-family:'Helvetica','Verdana','Monaco',sans-serif;
+}
+

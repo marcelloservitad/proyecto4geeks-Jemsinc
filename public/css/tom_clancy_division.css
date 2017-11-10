@@ -1,0 +1,39 @@
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+    body { 
+       background-image:'img/lodo_equipo.png'; 
+    }
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+}
+
+.image{
+
+
+  top:0;
+  left: 0;
+    width: 50%;
+        height: 50%;
+
+}
+
+
+.content  {
+  font-style:italic;
+  font-color:#E53009;
+  font-weight:bold;
+  font-size:2em;
+  font-family:'Helvetica','Verdana','Monaco',sans-serif;
+}

@@ -1,0 +1,26 @@
+.go {
+	padding:100px;
+	padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 400px) {
+    body { 
+       background-image:'img/lodo_equipo.png'; 
+    }
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 50%;
+    height: 50%;
+}
